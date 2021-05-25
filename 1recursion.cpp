@@ -1,3 +1,5 @@
+
+/* factorial of number usimg recursion*/
 #include <iostream>
 
 using namespace std;
